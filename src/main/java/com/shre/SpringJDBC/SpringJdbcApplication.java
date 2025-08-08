@@ -1,5 +1,7 @@
 package com.shre.SpringJDBC;
 
+import com.shre.SpringJDBC.model.Student;
+import com.shre.SpringJDBC.service.StudentService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
